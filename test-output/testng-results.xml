@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-06T21:33:17 EET" name="Default suite" finished-at="2025-05-06T21:33:39 EET" duration-ms="22038">
+    <groups>
+    </groups>
+    <test started-at="2025-05-06T21:33:17 EET" name="Default test" finished-at="2025-05-06T21:33:39 EET" duration-ms="22038">
+      <class name="almusafer.almusafer">
+        <test-method is-config="true" signature="mysetup()[pri:0, instance:almusafer.almusafer@13d73fa]" started-at="2025-05-06T21:33:17 EET" name="mysetup" finished-at="2025-05-06T21:33:20 EET" duration-ms="2738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mysetup -->
+        <test-method signature="countryslection()[pri:1, instance:almusafer.almusafer@13d73fa]" started-at="2025-05-06T21:33:20 EET" name="countryslection" finished-at="2025-05-06T21:33:22 EET" duration-ms="2351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countryslection -->
+        <test-method signature="checkthedefualtlanguage()[pri:2, instance:almusafer.almusafer@13d73fa]" started-at="2025-05-06T21:33:22 EET" name="checkthedefualtlanguage" finished-at="2025-05-06T21:33:22 EET" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkthedefualtlanguage -->
+        <test-method signature="checkcontactnumber()[pri:3, instance:almusafer.almusafer@13d73fa]" started-at="2025-05-06T21:33:22 EET" name="checkcontactnumber" finished-at="2025-05-06T21:33:22 EET" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcontactnumber -->
+        <test-method signature="checkthecurrency()[pri:4, instance:almusafer.almusafer@13d73fa]" started-at="2025-05-06T21:33:22 EET" name="checkthecurrency" finished-at="2025-05-06T21:33:22 EET" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkthecurrency -->
+        <test-method signature="QitafLogo()[pri:5, instance:almusafer.almusafer@13d73fa]" started-at="2025-05-06T21:33:22 EET" name="QitafLogo" finished-at="2025-05-06T21:33:22 EET" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QitafLogo -->
+        <test-method signature="thedefaultisflights()[pri:6, instance:almusafer.almusafer@13d73fa]" started-at="2025-05-06T21:33:22 EET" name="thedefaultisflights" finished-at="2025-05-06T21:33:24 EET" duration-ms="1596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thedefaultisflights -->
+        <test-method signature="departuredate()[pri:7, instance:almusafer.almusafer@13d73fa]" started-at="2025-05-06T21:33:24 EET" name="departuredate" finished-at="2025-05-06T21:33:25 EET" duration-ms="491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- departuredate -->
+        <test-method signature="returndate()[pri:8, instance:almusafer.almusafer@13d73fa]" started-at="2025-05-06T21:33:25 EET" name="returndate" finished-at="2025-05-06T21:33:25 EET" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returndate -->
+        <test-method signature="testLanguageByUrl()[pri:9, instance:almusafer.almusafer@13d73fa]" started-at="2025-05-06T21:33:25 EET" name="testLanguageByUrl" finished-at="2025-05-06T21:33:30 EET" duration-ms="5449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLanguageByUrl -->
+        <test-method signature="gotostaysbottun()[pri:10, instance:almusafer.almusafer@13d73fa]" started-at="2025-05-06T21:33:30 EET" name="gotostaysbottun" finished-at="2025-05-06T21:33:33 EET" duration-ms="3252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotostaysbottun -->
+        <test-method signature="selectadultsnumber()[pri:11, instance:almusafer.almusafer@13d73fa]" started-at="2025-05-06T21:33:33 EET" name="selectadultsnumber" finished-at="2025-05-06T21:33:39 EET" duration-ms="5541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectadultsnumber -->
+      </class> <!-- almusafer.almusafer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
